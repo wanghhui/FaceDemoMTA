@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="C:\Dev\FaceDemo1\app\src\main\jniLibs"><file name="armeabi/libmsc.so" path="C:\Dev\FaceDemo1\app\src\main\jniLibs\armeabi\libmsc.so"/><file name="libmsc_voice.so" path="C:\Dev\FaceDemo1\app\src\main\jniLibs\libmsc_voice.so"/></source></dataSet><dataSet config="debug"><source path="C:\Dev\FaceDemo1\app\src\debug\jniLibs"/></dataSet></merger>

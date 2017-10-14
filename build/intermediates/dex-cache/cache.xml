@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Dev\FaceDemo1\app\libs\Msc_face.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="83b487dc95298576dacace5a799d74624e539e27">
+        <dex dex="C:\Dev\FaceDemo1\app\build\intermediates\pre-dexed\debug\Msc_face_3837d7f96998b903d527d39d60e440d3149a30e9.jar" />
+    </item>
+
+</items>

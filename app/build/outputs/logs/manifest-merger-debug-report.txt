@@ -1,0 +1,148 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Dev\FaceDemo1\app\src\main\AndroidManifest.xml:2:1-78:12
+	package
+		ADDED from C:\Dev\FaceDemo1\app\src\main\AndroidManifest.xml:3:5-35
+		INJECTED from C:\Dev\FaceDemo1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Dev\FaceDemo1\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Dev\FaceDemo1\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from C:\Dev\FaceDemo1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Dev\FaceDemo1\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from C:\Dev\FaceDemo1\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Dev\FaceDemo1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Dev\FaceDemo1\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Dev\FaceDemo1\app\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from C:\Dev\FaceDemo1\app\src\main\AndroidManifest.xml:7:5-42
+	android:targetSdkVersion
+		INJECTED from C:\Dev\FaceDemo1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Dev\FaceDemo1\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Dev\FaceDemo1\app\src\main\AndroidManifest.xml:7:15-40
+		INJECTED from C:\Dev\FaceDemo1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Dev\FaceDemo1\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Dev\FaceDemo1\app\src\main\AndroidManifest.xml:8:4-66
+	android:name
+		ADDED from C:\Dev\FaceDemo1\app\src\main\AndroidManifest.xml:8:21-63
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Dev\FaceDemo1\app\src\main\AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from C:\Dev\FaceDemo1\app\src\main\AndroidManifest.xml:9:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Dev\FaceDemo1\app\src\main\AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from C:\Dev\FaceDemo1\app\src\main\AndroidManifest.xml:10:22-78
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Dev\FaceDemo1\app\src\main\AndroidManifest.xml:11:4-74
+	android:name
+		ADDED from C:\Dev\FaceDemo1\app\src\main\AndroidManifest.xml:11:21-71
+uses-permission#android.permission.CAMERA
+ADDED from C:\Dev\FaceDemo1\app\src\main\AndroidManifest.xml:12:5-65
+	android:name
+		ADDED from C:\Dev\FaceDemo1\app\src\main\AndroidManifest.xml:12:22-62
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from C:\Dev\FaceDemo1\app\src\main\AndroidManifest.xml:13:2-70
+	android:name
+		ADDED from C:\Dev\FaceDemo1\app\src\main\AndroidManifest.xml:13:19-67
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Dev\FaceDemo1\app\src\main\AndroidManifest.xml:14:2-73
+	android:name
+		ADDED from C:\Dev\FaceDemo1\app\src\main\AndroidManifest.xml:14:19-70
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Dev\FaceDemo1\app\src\main\AndroidManifest.xml:15:2-77
+	android:name
+		ADDED from C:\Dev\FaceDemo1\app\src\main\AndroidManifest.xml:15:19-74
+uses-feature#android.hardware.camera
+ADDED from C:\Dev\FaceDemo1\app\src\main\AndroidManifest.xml:16:5-60
+	android:name
+		ADDED from C:\Dev\FaceDemo1\app\src\main\AndroidManifest.xml:16:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from C:\Dev\FaceDemo1\app\src\main\AndroidManifest.xml:17:5-70
+	android:name
+		ADDED from C:\Dev\FaceDemo1\app\src\main\AndroidManifest.xml:17:19-67
+application
+ADDED from C:\Dev\FaceDemo1\app\src\main\AndroidManifest.xml:19:5-76:19
+	android:label
+		ADDED from C:\Dev\FaceDemo1\app\src\main\AndroidManifest.xml:23:9-41
+	android:allowBackup
+		ADDED from C:\Dev\FaceDemo1\app\src\main\AndroidManifest.xml:20:9-35
+	android:icon
+		ADDED from C:\Dev\FaceDemo1\app\src\main\AndroidManifest.xml:22:9-45
+	android:theme
+		ADDED from C:\Dev\FaceDemo1\app\src\main\AndroidManifest.xml:24:9-40
+	android:name
+		ADDED from C:\Dev\FaceDemo1\app\src\main\AndroidManifest.xml:21:9-33
+activity#com.iflytek.facedemo.MainActivity
+ADDED from C:\Dev\FaceDemo1\app\src\main\AndroidManifest.xml:25:9-34:20
+	android:screenOrientation
+		ADDED from C:\Dev\FaceDemo1\app\src\main\AndroidManifest.xml:28:13-49
+	android:label
+		ADDED from C:\Dev\FaceDemo1\app\src\main\AndroidManifest.xml:27:13-45
+	android:launchMode
+		ADDED from C:\Dev\FaceDemo1\app\src\main\AndroidManifest.xml:29:13-43
+	android:name
+		ADDED from C:\Dev\FaceDemo1\app\src\main\AndroidManifest.xml:26:13-61
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Dev\FaceDemo1\app\src\main\AndroidManifest.xml:30:13-33:29
+action#android.intent.action.MAIN
+ADDED from C:\Dev\FaceDemo1\app\src\main\AndroidManifest.xml:31:17-69
+	android:name
+		ADDED from C:\Dev\FaceDemo1\app\src\main\AndroidManifest.xml:31:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Dev\FaceDemo1\app\src\main\AndroidManifest.xml:32:17-77
+	android:name
+		ADDED from C:\Dev\FaceDemo1\app\src\main\AndroidManifest.xml:32:27-74
+activity#com.iflytek.facedemo.Register
+ADDED from C:\Dev\FaceDemo1\app\src\main\AndroidManifest.xml:36:9-45:20
+	android:screenOrientation
+		ADDED from C:\Dev\FaceDemo1\app\src\main\AndroidManifest.xml:39:13-49
+	android:label
+		ADDED from C:\Dev\FaceDemo1\app\src\main\AndroidManifest.xml:38:13-31
+	android:launchMode
+		ADDED from C:\Dev\FaceDemo1\app\src\main\AndroidManifest.xml:40:13-43
+	android:name
+		ADDED from C:\Dev\FaceDemo1\app\src\main\AndroidManifest.xml:37:13-57
+activity#com.iflytek.facedemo.Verify
+ADDED from C:\Dev\FaceDemo1\app\src\main\AndroidManifest.xml:46:9-55:20
+	android:screenOrientation
+		ADDED from C:\Dev\FaceDemo1\app\src\main\AndroidManifest.xml:49:13-49
+	android:label
+		ADDED from C:\Dev\FaceDemo1\app\src\main\AndroidManifest.xml:48:13-31
+	android:launchMode
+		ADDED from C:\Dev\FaceDemo1\app\src\main\AndroidManifest.xml:50:13-43
+	android:name
+		ADDED from C:\Dev\FaceDemo1\app\src\main\AndroidManifest.xml:47:13-55
+activity#com.iflytek.facedemo.OnlineFaceDemo
+ADDED from C:\Dev\FaceDemo1\app\src\main\AndroidManifest.xml:56:9-61:20
+	android:screenOrientation
+		ADDED from C:\Dev\FaceDemo1\app\src\main\AndroidManifest.xml:59:13-49
+	android:label
+		ADDED from C:\Dev\FaceDemo1\app\src\main\AndroidManifest.xml:58:13-45
+	android:launchMode
+		ADDED from C:\Dev\FaceDemo1\app\src\main\AndroidManifest.xml:60:13-43
+	android:name
+		ADDED from C:\Dev\FaceDemo1\app\src\main\AndroidManifest.xml:57:13-63
+activity#com.iflytek.facedemo.OfflineFaceDemo
+ADDED from C:\Dev\FaceDemo1\app\src\main\AndroidManifest.xml:62:9-67:20
+	android:screenOrientation
+		ADDED from C:\Dev\FaceDemo1\app\src\main\AndroidManifest.xml:65:13-49
+	android:label
+		ADDED from C:\Dev\FaceDemo1\app\src\main\AndroidManifest.xml:64:13-45
+	android:launchMode
+		ADDED from C:\Dev\FaceDemo1\app\src\main\AndroidManifest.xml:66:13-43
+	android:name
+		ADDED from C:\Dev\FaceDemo1\app\src\main\AndroidManifest.xml:63:13-64
+activity#com.iflytek.facedemo.VideoDemo
+ADDED from C:\Dev\FaceDemo1\app\src\main\AndroidManifest.xml:68:9-73:20
+	android:screenOrientation
+		ADDED from C:\Dev\FaceDemo1\app\src\main\AndroidManifest.xml:71:13-49
+	android:label
+		ADDED from C:\Dev\FaceDemo1\app\src\main\AndroidManifest.xml:70:13-45
+	android:launchMode
+		ADDED from C:\Dev\FaceDemo1\app\src\main\AndroidManifest.xml:72:13-43
+	android:name
+		ADDED from C:\Dev\FaceDemo1\app\src\main\AndroidManifest.xml:69:13-58

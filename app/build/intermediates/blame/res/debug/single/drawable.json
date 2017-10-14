@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Dev\\FaceDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_launcher.png",
+        "source": "C:\\Dev\\FaceDemo1\\app\\src\\main\\res\\drawable\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Dev\\FaceDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\no_photo.png",
+        "source": "C:\\Dev\\FaceDemo1\\app\\src\\main\\res\\drawable\\no_photo.png"
+    }
+]
